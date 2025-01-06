@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/619217808072467541/1c8cb9b71db4418890fea4177da6344c/artifacts
+end_time: 1736133387852
+entry_point_name: ''
+experiment_id: '619217808072467541'
+lifecycle_stage: active
+run_id: 1c8cb9b71db4418890fea4177da6344c
+run_name: gentle-sponge-116
+run_uuid: 1c8cb9b71db4418890fea4177da6344c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736133373892
+status: 3
+tags: []
+user_id: sachi

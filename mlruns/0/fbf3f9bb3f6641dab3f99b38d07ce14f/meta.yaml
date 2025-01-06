@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fbf3f9bb3f6641dab3f99b38d07ce14f/artifacts
+end_time: 1736046241933
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fbf3f9bb3f6641dab3f99b38d07ce14f
+run_name: orderly-hog-466
+run_uuid: fbf3f9bb3f6641dab3f99b38d07ce14f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736046241861
+status: 3
+tags: []
+user_id: sachi

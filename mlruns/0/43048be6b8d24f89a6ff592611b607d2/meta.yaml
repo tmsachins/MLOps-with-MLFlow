@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/43048be6b8d24f89a6ff592611b607d2/artifacts
+end_time: 1736047024562
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43048be6b8d24f89a6ff592611b607d2
+run_name: fearless-mare-991
+run_uuid: 43048be6b8d24f89a6ff592611b607d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736047024181
+status: 3
+tags: []
+user_id: sachi

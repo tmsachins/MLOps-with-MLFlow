@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5a09fe66abd74bceaed05133e8388824/artifacts
+end_time: 1736045180658
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a09fe66abd74bceaed05133e8388824
+run_name: awesome-shoat-966
+run_uuid: 5a09fe66abd74bceaed05133e8388824
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736045180560
+status: 3
+tags: []
+user_id: sachi

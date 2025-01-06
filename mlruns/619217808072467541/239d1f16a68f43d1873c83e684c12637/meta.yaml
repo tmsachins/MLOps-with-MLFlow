@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/619217808072467541/239d1f16a68f43d1873c83e684c12637/artifacts
+end_time: 1736047667522
+entry_point_name: ''
+experiment_id: '619217808072467541'
+lifecycle_stage: active
+run_id: 239d1f16a68f43d1873c83e684c12637
+run_name: dapper-skink-69
+run_uuid: 239d1f16a68f43d1873c83e684c12637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736047662820
+status: 3
+tags: []
+user_id: sachi
